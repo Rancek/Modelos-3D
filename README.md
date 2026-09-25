@@ -45,17 +45,21 @@ Estos trabajos me permitieron estudiar aspectos como proporciones, silueta, cons
 
 ---
 
-## 🎓 Examen de Modelado 3D
+### 🎓 Examen de Modelado 3D — Dragon Ball
 
 <p align="center">
   <img src="https://github.com/Rancek/Modelos-3D/blob/main/Examen_modelado.gif?raw=true" width="650">
 </p>
 
 <p align="center">
-  <em>👤 Trabajo de modelado de personaje realizado como parte de mi formación universitaria.</em>
+  <em>🐉 Modelo 3D realizado como ejercicio académico durante mi formación universitaria, basado en un diseño existente de la serie Dragon Ball.</em>
 </p>
 
-Este proyecto corresponde a uno de los trabajos desarrollados durante mis estudios, enfocado en aplicar los conocimientos adquiridos en **modelado y construcción tridimensional de personajes**.
+Este modelo fue desarrollado como parte de un **examen de Modelado 3D durante mis estudios universitarios**, utilizando como referencia un dibujo y diseño de personaje perteneciente a **Dragon Ball**.
+
+El objetivo del trabajo fue exclusivamente **académico y educativo**, enfocado en practicar y demostrar técnicas de modelado 3D a partir de una referencia visual existente.
+
+> **Nota:** El diseño y personaje original pertenecen a sus respectivos autores y titulares de derechos. No reclamo autoría ni propiedad sobre el diseño original de *Dragon Ball*. Mi autoría corresponde únicamente al trabajo de **modelado 3D realizado con fines académicos** a partir de dicha referencia.
 
 Durante el desarrollo del modelo se trabajaron diferentes aspectos:
 
